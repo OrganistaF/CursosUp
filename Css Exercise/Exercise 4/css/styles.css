@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+div{
+    width: 200px;
+    height: 200px;
+    position: absolute;
+}
+
+/*Squares*/
+.blue{
+    background-color: blue;
+    left: 200px;
+    top: 200px;
+}
+
+.red{
+    background-color: red; 
+    left: 400px;
+    top: 400px;   
+}
+
+.yellow{
+    background-color: yellow;
+}

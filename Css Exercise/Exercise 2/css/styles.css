@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+div{
+    border: 10px solid black;
+    position: absolute;
+    background-color: transparent;
+}
+
+.dad{
+    width: 720px;
+    height: 360px;
+    border: none;
+}
+
+.divsquare1{
+    width: 40px;
+    height: 235px;
+    border-top: none;
+    border-left: none;
+}
+
+.divsquare2{
+    width: 40px;
+    height: 80px;
+    top: 235px;
+    border-left: none;
+}
+.divsquare3{
+    width: 40px;
+    height: 25px;
+    top: 325px;
+    border-bottom : none;
+    border-left: none;
+}
+.divsquare4{
+    width: 220px;
+    height: 235px;
+    left: 50px;
+    border-top: none;
+    border-left: none;
+}
+.divsquare5{
+    width: 220px;
+    height: 80px;
+    left: 40px;
+    top: 235px;
+    background-color: rgb(48, 48, 167);
+}
+.divsquare6{
+    width: 220px;
+    height: 25px;
+    left: 40px;
+    top: 325px;
+    border-bottom: none;
+}
+.divsquare7{
+    width: 60px;
+    height: 35px;
+    left: 270px;
+    border-top: none;
+}
+.divsquare8{
+    width: 60px;
+    height: 190px;
+    left: 270px;
+    top:35px;
+}
+.divsquare9{
+    width: 60px;
+    height: 80px;
+    left: 270px;
+    top: 235px;
+}
+.divsquare10{
+    width: 60px;
+    height: 25px;
+    left: 270px;
+    top: 325px;
+    border-bottom: none;
+}
+.divsquare11{
+    width: 240px;
+    height: 35px;
+    left: 340px;
+    border-top: none;
+}
+.divsquare12{
+    width: 240px;
+    height: 190px;
+    left: 340px;
+    top: 35px;
+    background-color: rgb(185, 38, 38);
+}
+.divsquare13{
+    width: 240px;
+    height: 115px;
+    left: 340px;
+    top: 235px;
+    border-bottom: none;
+}
+.divsquare14{
+    width: 120px;
+    height: 35px;
+    left: 590px;
+    border-top: none;
+    background-color: rgb(212, 212, 30);
+    border-right: none;
+}
+.divsquare15{
+    width: 120px;
+    height: 190px;
+    left: 590px;
+    top: 35px;
+    border-right: none;
+}
+.divsquare16{
+    width: 120px;
+    height: 115px;
+    left: 590px;
+    top: 235px;
+    border-bottom: none;
+    border-right: none;
+}
