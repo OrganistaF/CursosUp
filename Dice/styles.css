@@ -1,0 +1,38 @@
+/*
+
+*/
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+*{
+  color: #FA7070;
+}
+body {
+  background-color: #A1C298;
+}
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+h1 {
+  font-family: 'Lobster Two', cursive;
+  margin: 30px;
+  font-size: 8rem;
+}
+
+p {
+  font-family: 'Indie Flower', cursive;
+  font-size: 3rem;
+  margin: 30px;
+}
+
+img {
+  width: 80%;
+}
